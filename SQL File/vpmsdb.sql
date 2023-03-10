@@ -43,8 +43,8 @@ CREATE TABLE `tbladmin` (
 
 INSERT INTO `tbladmin` (`ID`, `AdminName`, `UserName`, `MobileNumber`, `Email`, `Password`, `AdminRegdate`) VALUES
 (1, 'Admin', 'admin', 7898799798, 'tester1@gmail.com', 'f925916e2754e5e03f75dd58a5733251', '2019-07-05 05:38:23'),
-(2, 'udit', 'udit065', 9910047442, 'udityadav133@gmail.com', '0001', '2022-12-24 13:24:25'),
-(3, 'udit', 'udit065', 9910047442, 'udityadav133@gmail.com', '1234', '2022-12-24 13:24:34');
+(2, 'udit', 'udit065', 9910047442, 'udit133y@gmail.com', '0001', '2022-12-24 13:24:25'),
+(3, 'udit', 'udit065', 9910047442, 'udity001@gmail.com', '1234', '2022-12-24 13:24:34');
 
 -- --------------------------------------------------------
 
